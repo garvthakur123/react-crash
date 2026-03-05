@@ -1,2 +1,2 @@
 # react-crash
-Just a react project to brush up my react
+Just a project to brush up my react skills
