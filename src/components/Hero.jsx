@@ -12,7 +12,7 @@ const Hero = (props) => {
                             {props.title}
                         </h1>
                         <p className="my-4 text-xl text-white">
-                            {props.subTitle}
+                            {props.subtitle}
                         </p>
                     </div>
                 </div>

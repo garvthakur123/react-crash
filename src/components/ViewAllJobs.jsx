@@ -1,4 +1,4 @@
-const ViewAllComponents = () => {
+const ViewAllJobs = () => {
     return (
         <div>
             <section className="m-auto max-w-lg my-10 px-6">
@@ -12,4 +12,4 @@ const ViewAllComponents = () => {
     )
 }
 
-export default ViewAllComponents
+export default ViewAllJobs
