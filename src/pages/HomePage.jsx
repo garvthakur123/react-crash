@@ -12,7 +12,7 @@ const HomePage = () => {
         <>
             <Hero title={title} subtitle={subtitle} />
             <HomeCards />
-            <JobListings />
+            <JobListings isHome={true} />
             <ViewAllJobs />
         </>
     )
